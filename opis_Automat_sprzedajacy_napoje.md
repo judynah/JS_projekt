@@ -29,4 +29,4 @@ oczekiwana informacja o błędzie.
 
 
 link do github:
-https://github.com/judynah/JS_projekt
+https://github.com/judynah/JS_projekt.git
