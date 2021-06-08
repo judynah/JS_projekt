@@ -6,20 +6,6 @@ from machineInterface import *
 
 class MyTestCase(unittest.TestCase):
 
-    # self.vm = VendingMachine()
-    # self.m1 = Coin(1, 'PLN')
-    #     self.m3 = Coin(1, 'PLN')
-    #     self.m2 = Coin(2, 'PLN')
-    #
-    #     self.p1 = MoneyKeeper()
-    #     #
-    #     self.b1 = Beverage('Cola', 3.5)
-    #     self.bk = BeverageKeeper()
-    #     self.bk.addItem(self.b1)
-    #     self.bk.itemNumber = 30
-    #     self.vm.fillWithMoney(30)
-
-
     def test_checkPrice(self):
         # given
         vm = VendingMachine()
